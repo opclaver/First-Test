@@ -5,5 +5,6 @@
 		header("Location: examples/demos/index.php");
 		exit;
 	}
+	ok bien recu
 
 ?>
